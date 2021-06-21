@@ -28,4 +28,15 @@ int main()
 		printf("%d\n", a+b);
 	}
 }
+
+8393	합
+n이 주어졌을 때, 1부터 n까지 합을 구하는 프로그램을 작성하시오.
+숏코딩 전략 -> 합계를 구하는 수학공식 N*(N+1)/2 를 사용하여 최적화 가능
+#include <stdio.h>
+
+int main(){
+	int N;
+	scanf("%d",&N);
+	printf("%d\n",N*(N+1)/2);
+}
 */
