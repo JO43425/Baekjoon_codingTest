@@ -6,6 +6,13 @@
 *.lo
 *.o
 *.obj
+*.log
+*.suo
+*.pdb
+CodingTest/Debug*
+CodingTest/x64*
+Debug/*
+.vs/*
 
 # Precompiled Headers
 *.gch
