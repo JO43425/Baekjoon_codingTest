@@ -56,4 +56,22 @@ main()
 	c = a*60 + b - 45 + 60*24;
 	printf("%d %d", c/60%24, c%60);
 }
+
+문제 15552번
+빠른 A+B
+#include <stdio.h>
+
+int main(void)
+{
+	int T, A, B;
+	scanf("%d", &T);
+
+	for (int i = 0; i < T; ++i)
+	{
+		scanf("%d %d", &A, &B);
+		printf("%d\n", A + B);
+	}
+
+	return 0;
+}
 */
