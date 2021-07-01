@@ -83,4 +83,13 @@ int main(void)
 {
 	int n; scanf("%d", &n);  for (int i = 1; i <= n; ++i) printf("%d\n", i); return 0;
 }
+
+Q2742 ¹ø
+±âÂï N
+#include <stdio.h>
+
+int main(void)
+{
+	int n; scanf("%d", &n);  while (n) { printf("%d\n", n); n--; } return 0;
+}
 */
