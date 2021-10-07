@@ -52,4 +52,54 @@ namespace CodingTest
         }
     }
 
+    class Solution_1001
+    {
+        public static void Solution()
+        {
+            var x = ReadLine().Split(); Write(int.Parse(x[0]) - int.Parse(x[1]));
+        }
+    }
+
+    class Solution_1002
+    {
+        public static void Solution()
+        {
+            var x = ReadLine().Split(); Write(int.Parse(x[0])*int.Parse(x[1]));
+        }
+    }
+
+    class Solution_1003
+    {
+        public static void Solution()
+        {
+            var x = ReadLine().Split(); Write( (double)int.Parse(x[0]) / int.Parse(x[1]));
+        }
+    }
+
+    class Solution_10869
+    {
+        public static void Solution()
+        {
+            var x = ReadLine().Split();
+            WriteLine(int.Parse(x[0]) + int.Parse(x[1]));
+            WriteLine(int.Parse(x[0]) - int.Parse(x[1]));
+            WriteLine(int.Parse(x[0]) * int.Parse(x[1]));
+            WriteLine(int.Parse(x[0]) / int.Parse(x[1]));
+            WriteLine(int.Parse(x[0]) % int.Parse(x[1]));
+        }
+    }
+
+    class Solution_11021
+    {
+        public static void Solution()
+        {
+            int num = Int32.Parse(ReadLine());
+
+            for (int i = 1; i <= num; i++)
+            {
+                string[] strArray = ReadLine().Split();
+                WriteLine($"Case #{i}: {Int32.Parse(strArray[0]) + Int32.Parse(strArray[1])}");
+            }
+        }
+    }
 }
