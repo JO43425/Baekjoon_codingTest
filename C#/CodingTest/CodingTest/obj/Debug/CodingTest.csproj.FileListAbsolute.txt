@@ -1,0 +1,7 @@
+D:\git\backjoon\C#\CodingTest\CodingTest\bin\Debug\CodingTest.exe.config
+D:\git\backjoon\C#\CodingTest\CodingTest\bin\Debug\CodingTest.exe
+D:\git\backjoon\C#\CodingTest\CodingTest\bin\Debug\CodingTest.pdb
+D:\git\backjoon\C#\CodingTest\CodingTest\obj\Debug\CodingTest.csprojAssemblyReference.cache
+D:\git\backjoon\C#\CodingTest\CodingTest\obj\Debug\CodingTest.csproj.CoreCompileInputs.cache
+D:\git\backjoon\C#\CodingTest\CodingTest\obj\Debug\CodingTest.exe
+D:\git\backjoon\C#\CodingTest\CodingTest\obj\Debug\CodingTest.pdb

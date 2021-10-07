@@ -37,7 +37,3 @@ Debug/*
 *.exe
 *.out
 *.app
-C#/CodingTest/.vs/CodingTest/v15/Server/sqlite3/storage.ide-wal
-C#/CodingTest/.vs/CodingTest/v15/Server/sqlite3/storage.ide-shm
-C#/CodingTest/.vs/CodingTest/v15/Server/sqlite3/storage.ide
-C#/CodingTest/.vs/CodingTest/v15/Server/sqlite3/db.lock
